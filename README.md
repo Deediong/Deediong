@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Blessing Emmanuel.
-- 👀 I’m a data analyst who enjoys documenting her learning journey.
+# Hello!!! Glad to have you here 😄👋😄
+## My name is Blessing Emmanuel.
+- 💻 I’m a data analyst who enjoys documenting her learning journey.
 - 🌱 I’m currently learning Excel, SQL, and Power BI.
-- 💞️ I’m open to collaborate on data analysis projects, volunteer, or otherwise.
+- 💞️ I’m open to collaborate on data analysis projects, get entry level roles in data analysis, remote jobs, and others.
 - 📫 You can reach me via emmanuelblessing091@gmail.com
-- 😄 Pronouns: She/her
 - ⚡ Fun fact: Researching, reading, and learning new things.
 
 <!---
